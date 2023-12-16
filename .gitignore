@@ -1,0 +1,29 @@
+# Ignore everything - https://jasonstitt.com/gitignore-whitelisting-patterns
+*
+# But descend into directories
+!*/
+!.gitignore
+
+# Recursively allow files under subtree
+!/.htaccess
+
+!/data/.htaccess
+!/data/README.md
+
+# https://www.dokuwiki.org/faq:backup
+# Contains your current pages
+!/data/pages/**
+# Contains meta information about your pages (like who created it originally, who subscribed to it, ...)
+!/data/meta/**
+# Contains your current media (images, PDFs, …)
+!/data/media/**
+# Meta data for the media
+!/data/media_meta/**
+# All the old versions of your pages
+!/data/attic/**
+# All the old versions of your media
+!/data/media_attic/**
+# The configuration settings
+!/conf/** 
+# All the plugins
+!/lib/plugins/**
