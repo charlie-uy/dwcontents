@@ -438,6 +438,7 @@ Guías de clase Derecho Societario
 
 **Clase 9 y 10**
 
+<HTML>
 <ol type="I">
     <strong><li>I. Intervención Judicial (arts.184 a 188 LSC):</li></strong>
     <ol type="a">
@@ -490,10 +491,14 @@ Guías de clase Derecho Societario
         <li>Instalación de la sede principal o realización del objeto principalmente en el país (art. 198).</li>
     </ol>
 </ol>
+</HTML>
+
+==== Sociedades Colectivas. Sociedades en Comandita Simple. Sociedades de Capital e Industria y Sociedades de Responsabilidad Limitada.====
 
 **Clase 11 y 12**
-### Sociedades Colectivas. Sociedades en Comandita Simple. Sociedades de Capital e Industria y Sociedades de Responsabilidad Limitada.
 
+<HTML>
+<br>
 <ol type="I">
     <strong><li>Introducción al estudio de los distintos tipos sociales</li></strong>
     <ul>
@@ -590,10 +595,14 @@ Guías de clase Derecho Societario
         <li>Muerte e incapacidad de un socio: efectos (arts. 232 y 235).</li>
     </ol>
 </ol>
+</HTML>
+
+==== Sociedades Anónimas. Caracterización. Clases. Constitución. ====
 
 **Clase 13**
-### Sociedades Anónimas. Caracterización. Clases. Constitución.
 
+<HTML>
+<br>
 <ol type="I">
     <strong><li>Introducción al estudio de la Sociedad Anónima</li></strong>
     <strong><li>Características de la Sociedad Anónima:</li></strong>
@@ -630,10 +639,14 @@ Guías de clase Derecho Societario
         </ul>
     </ol>
 </ol>
+</HTML>
+
+==== Sociedades Anónimas. Capital. Concepto y clasificación. Aumento, reducción y reintegro de capital.====
 
 **Clase 14 y 15**
-### Sociedades Anónimas. Capital. Concepto y clasificación. Aumento, reducción y reintegro de capital.
 
+<HTML>
+<br>
 <ol type="I">
     <strong><li>Régimen jurídico (arts. 279 a 295 LSC).</li></strong>
     <strong><li>Concepto de capital y modalidades de capital de las S.A.:</li></strong>
@@ -701,3 +714,4 @@ Guías de clase Derecho Societario
         </ol>
     </ol>
 </ol>
+</HTML>
