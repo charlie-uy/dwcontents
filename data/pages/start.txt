@@ -3,6 +3,7 @@
 ===== En preparación =====
 
 [[Derecho Societario|Derecho Societario]]\\
-[[Derecho Comercial|Derecho Comercial]]
+[[Derecho Comercial|Derecho Comercial]]\\
+[[conc:gestado|Gestión del estado]]
 
 ===== Completados =====

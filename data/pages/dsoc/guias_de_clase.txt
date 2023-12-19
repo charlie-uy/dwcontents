@@ -1,5 +1,6 @@
 ====== Guias de clase ======
 
+
 Guías de clase Derecho Societario
 
 ==== Introducción al estudio del Derecho Societario. Principios orientadores de la legislación societaria. ====
@@ -439,6 +440,7 @@ Guías de clase Derecho Societario
 **Clase 9 y 10**
 
 <HTML>
+<br>
 <ol type="I">
     <strong><li>I. Intervención Judicial (arts.184 a 188 LSC):</li></strong>
     <ol type="a">
@@ -491,6 +493,7 @@ Guías de clase Derecho Societario
         <li>Instalación de la sede principal o realización del objeto principalmente en el país (art. 198).</li>
     </ol>
 </ol>
+<br>
 </HTML>
 
 ==== Sociedades Colectivas. Sociedades en Comandita Simple. Sociedades de Capital e Industria y Sociedades de Responsabilidad Limitada.====
@@ -595,13 +598,16 @@ Guías de clase Derecho Societario
         <li>Muerte e incapacidad de un socio: efectos (arts. 232 y 235).</li>
     </ol>
 </ol>
+<br>
 </HTML>
 
-==== Sociedades Anónimas. Caracterización. Clases. Constitución. ====
+
+
+==== Sociedades Anónimas. Caracterización. Clases. Constitución.====
 
 **Clase 13**
 
-<HTML>
+<html>
 <br>
 <ol type="I">
     <strong><li>Introducción al estudio de la Sociedad Anónima</li></strong>
@@ -639,13 +645,14 @@ Guías de clase Derecho Societario
         </ul>
     </ol>
 </ol>
-</HTML>
+<br>
+</html>
 
-==== Sociedades Anónimas. Capital. Concepto y clasificación. Aumento, reducción y reintegro de capital.====
+==== Sociedades Anónimas. Capital. Concepto y clasificación. Aumento, reducción y reintegro de capital. ====
 
 **Clase 14 y 15**
 
-<HTML>
+<html>
 <br>
 <ol type="I">
     <strong><li>Régimen jurídico (arts. 279 a 295 LSC).</li></strong>
@@ -714,4 +721,202 @@ Guías de clase Derecho Societario
         </ol>
     </ol>
 </ol>
+<br>
+</html>
+
+==== Sociedades Anónimas. Acciones. Estatuto jurídico del accionista. Derechos y obligaciones. ====
+
+**Clase 16**
+
+<HTML>
+<br>
+<ol type="I">
+    <strong><li>Concepto de acción.</li></strong>
+    <ol type="a">
+        <li>La acción como alícuota del capital.</li>
+        <li>La acción como conjunto de derechos.</li>
+        <li>La acción como título valor representativo.</li>
+    </ol>
+    <br>
+    <strong><li>Menciones que deben contener las acciones (y los certificados provisorios representativos de acciones).</li></strong>
+        <ul>
+            <li>Análisis de las menciones contenidas en el artículo 300 LSC.</li>
+        </ul>
+    <br>
+    <strong><li>Clasificación de las acciones:</li></strong>
+    <ol type="A">
+        <li>Según se encuentren o no materializadas en un título representativo:</li>
+        <ol type="a">
+            <li>Acciones que se representan en títulos negociables: pueden ser al portador o nominativas.</li>
+            <li>Acciones que no se representan en títulos negociables: escriturales.</li>
+        </ol>
+        <li>Según su forma de transmisión:</li>
+        <ol type="a">
+            <li>Acciones al portador: forma de transmisión.</li>
+            <li>Acciones nominativas: (i) endosables y (ii) no endosables: forma de transmisión.</li>
+            <li>Acciones escriturales: formas de transmisión.</li>
+        </ol>
+        <li>Según su valuación en relación a su valor nominal:</li>
+        <ol type="a">
+            <li>Acciones a la par.</li>
+            <li>Acciones sobre la par.</li>
+            <li>Acciones por debajo de la par.</li>
+        </ol>
+        <li>Según los derechos que le confiere a su titular:</li>
+        <ol type="a">
+            <li>Acciones ordinarias.</li>
+            <li>Acciones preferidas.</li>
+            <ul>
+                <li>Preferencias que reconoce el artículo 323 LSC.</li>
+            </ul>
+            <li>Acciones de goce (art. 311 LSC).</li>
+        </ol>
+    </ol>
+    <br>
+    <strong><li>Registración de las acciones al portador (Ley 18.930):</li></strong>
+    <ol type="a">
+        <li>Entidades obligadas a registrar (art. 1 ley 18.930).</li>
+        <li>Procedimiento de registración: (i) comunicación a la entidad emisora y (ii) Comunicación al BCU.</li>
+        <li>Contralor a cargo de la AIN (art. 4 ley 18.930).</li>
+        <li>Deber de secreto de la información (art. 6 ley 18.930).</li>
+        <li>Comunicación de modificaciones en las participaciones (art. 7 ley 18.930).</li>
+        <li>Sanciones aplicables a los titulares y a las entidades emisoras y sus representantes por no realizar las comunicaciones (arts. 8 y 9 ley 18.930).</li>
+        <li>Solidaridad de los adquirentes de acciones al portador por las multas.</li>
+    </ol>
+    <br>
+    <strong><li>Comunicación de titulares y beneficiarios finales de las acciones nominativas y escriturales (ley 19.484 y Decreto 166 de 2017).</li></strong>
+    <br>
+    <strong><li>Negocios sobre las acciones</li></strong>
+    <ol type="a">
+        <li>Transmisión de acciones. Limitaciones (art. 305 LSC).</li>
+        <li>Usufructo (art. 308 LSC).</li>
+        <li>Prenda y embargo (art. 309 LSC).</li>
+        <li>Rescate (art. 310 LSC).</li>
+        <li>Amortización (art. 311 LSC).</li>
+        <li>Adquisición de acciones propias por la sociedad emisora (art. 314 LSC).</li>
+        <li>Convenio de sindicación de acciones (art. 331 LSC).</li>
+    </ol>
+    <br>
+    <strong><li>Derechos esenciales de los accionistas (art. 319 LSC).</li></strong>
+    <br>
+    <strong><li>Derechos económicos o patrimoniales:</li></strong>
+    <ol type="a">
+        <li>Derecho a participar en las ganancias (derecho al dividendo).</li>
+        <ul>
+            <li>Distinción entre el derecho abstracto y el derecho concreto al dividendo.</li>
+            <li>Presupuestos y limitaciones para la distribución de dividendos (art. 98 y 93 LSC).</li>
+            <li>Dividendo mínimo obligatorio (art. 320 LSC).</li>
+        </ul>
+        <li>Derecho a participar en el remanente de la liquidación (art. 178 LSC).</li>
+        <li>Derecho a la suscripción preferente de acciones y derecho de acrecer (arts. 326 y sig.).</li>
+    </ol>
+    <br>
+    <strong><li>Derechos políticos:</li></strong>
+    <ol type="a">
+        <li>Derecho de fiscalización y de información (arts. 321, 402 y 339 LSC).</li>
+        <ul>
+            <li>Alcance del derecho de información (art. 321).</li>
+            <li>Presupuestos para obtener la exhibición de los libros sociales (art. 339).</li>
+        </ul>
+        <li>Derecho a participar, deliberar y votar en las asambleas de accionistas (art. 322 LSC).</li>
+        <li>Derecho de receso.</li>
+        <ul>
+            <li>Hipótesis de procedencia de su ejercicio (art. 362 LSC).</li>
+            <li>Efectos de su ejercicio.</li>
+        </ul>
+    </ol>
+    <br>
+    <strong><li>Obligaciones de los accionistas:</li></strong>
+    <ol type="a">
+        <li>Obligación de aportar (de integrar las acciones suscritas):</li>
+        <li>Alcance de la obligación de aportar de los accionistas (art. 58).</li>
+        <li>Mora en el cumplimiento de la obligación de aportar: efectos (art. 318 LSC).</li>
+        <li>Obligación de participar en la organización societaria de manera legítima y leal (arts. 324 y 324 LSC).</li>
+    </ol>
+</ol>
 </HTML>
+
+==== Sociedades Anónimas. Asambleas de accionistas. Impugnación de resoluciones de las Asambleas. Modificación del contrato. Libros sociales. ====
+
+**Clase 17 y 18**
+
+<HTML>
+<ol type="I">
+    <strong><li>Asambleas de accionistas (arts. 340 a 360 LSC).</li></strong>
+    <ol type="A">
+        <li>Concepto y características de las asambleas (arts. 340).</li>
+        <li>Distintas clases de asambleas:</li>
+        <ol type="a">
+            <li>Asamblea ordinaria:</li>
+            <ul>
+                <li>Competencia (arts. 342).</li>
+                <li>Época de celebración (art. 344).</li>
+            </ul>
+            <li>Asamblea extraordinaria:</li>
+            <ul>
+                <li>Competencia (art. 343).</li>
+                <li>Época de celebración (art. 344).</li>
+            </ul>
+            <li>Asamblea especial:</li>
+            <ul>
+                <li>Concepto y competencia (art. 349).</li>
+            </ul>
+        </ol>
+        <li>Desarrollo de la asamblea:</li>
+        <ol type="a">
+            <li>Formalidades previas:</li>
+            <ol type="i">
+                <li>Convocatoria a la asamblea:</li>
+                <ul>
+                    <li>Legitimación para convocar a las asambleas (arts. 344 y 402 num. 6).</li>
+                    <li>Legitimación de los accionistas para solicitar la convocatoria a asambleas (art. 344).</li>
+                    <li>Asambleas por medios electrónicos (ley 19.924).</li>
+                    <li>Asambleas presenciales, virtuales o híbridas.</li>
+                </ul>
+                <li>Publicidad de la convocatoria a la asamblea:</li>
+                <ul>
+                    <li>Publicaciones en el Diario Oficial y otro diario (art. 345): contenido.</li>
+                    <li>Posibilidad de omitir las publicaciones cuando se trata de una asamblea unánime (art. 347) y cuando es viable la convocatoria con citación personal (art. 348).</li>
+                    <li>Registro de los accionistas en el Libro Registro de Asistencia de los Accionistas a las Asambleas (art. 350).</li>
+                </ul>
+            </ol>
+            <li>Formalidades concomitantes a su celebración:</li>
+            <ol type="i">
+                <li>Cumplimiento de los quórums mínimos: asamblea en primera y en segunda convocatoria (arts. 354 y 355).</li>
+                <li>Personas legitimadas para asistir (arts. 350 y 352).</li>
+                <li>Posibilidad de los accionistas de asistir personalmente o representados (art. 351) y de contar con asesores (arts. 352).</li>
+                <li>Presidencia de la asamblea (art. 353).</li>
+                <li>Respeto del orden del día (art. 358).</li>
+                <li>Mayorías para adoptar resoluciones (arts. 356, 362).</li>
+            </ol>
+            <li>Formalidades posteriores: firma del acta de asamblea y pasaje al Libro correspondiente (art. 360).</li>
+        </ol>
+    </ol>
+    <strong><li>Impugnación de las resoluciones de asambleas (arts. 365 a 374 LSC):</li></strong>
+    <ol type="a">
+        <li>Acción de impugnación y acción de nulidad de las resoluciones de las asambleas (art. 365).</li>
+        <li>Causales para el ejercicio de la acción de impugnación (art. 365).</li>
+        <li>Personas legitimadas para el ejercicio de la acción de impugnación (art. 367).</li>
+        <li>Plazo y procedimiento para el ejercicio de la acción de impugnación (arts. 366 y 369).</li>
+        <li>Medida cautelar de suspensión preventiva de la ejecución de la resolución (art. 368).</li>
+        <li>Efectos de la sentencia (art. 370) y responsabilidades de los accionistas que votaron a favor (art. 372).</li>
+    </ol>
+    <strong><li>Modificaciones del estatuto (arts. 361 a 364 LSC).</li></strong>
+    <ol type="a">
+        <li>Órgano competente (arts. 361 y 343).</li>
+        <li>Procedimiento.</li>
+    </ol>
+    <strong><li>Libros Sociales (arts. 332 a 339 LSC).</li></strong>
+    <ol type="a">
+        <li>Distintos libros sociales que deben llevar las S.A. y contenido de los mismos (arts. 332 a 338).</li>
+        <li>Formalidades (arts. 332).</li>
+        <li>Exhibición (art. 339).</li>
+    </ol>
+</ol>
+</HTML>
+
+==== Título ====
+
+**Clase 19**
+
+
