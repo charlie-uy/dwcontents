@@ -1,0 +1,22 @@
+====== Guías de clase Derecho Comercial ======
+
+===== Clase 1 =====
+
+Introducción al estudio del Derecho Comercial
+
+  * Nacimiento y contenido del Derecho Comercial
+  * Los actos de comercio
+  * Comerciante
+
+[[gc:gc1|Guía de clase 1]]
+
+
+===== Clase 2 =====
+
+Los actos de comercio
+
+  * Actos de comercio. Su trascendencia
+  * Enumeración
+
+[[gc:gc2|Guía de clase2]]
+

@@ -1,11 +1,4 @@
-1702682215	127.0.0.1	C	start	caeruy	creado		159
-1702682606	127.0.0.1	C	derecho_societario	caeruy	creado		114
-1702682861	127.0.0.1	E	derecho_societario	caeruy	[Derecho Societario] 		91
-1702682924	127.0.0.1	E	derecho_societario	caeruy			-34
-1702717582	127.0.0.1	C	guias_de_clase	caeruy	en proceso		64
-1702718846	127.0.0.1	E	guias_de_clase	caeruy	Primer agregado de guías de clase		42130
 1702719072	127.0.0.1	E	derecho_societario	caeruy			5
-1702718846	127.0.0.1	C	dsoc:guias_de_clase		creado - editor externo		42194
 1702719211	127.0.0.1	E	dsoc:guias_de_clase	caeruy			-19
 1702719242	127.0.0.1	E	dsoc:guias_de_clase	caeruy			-31
 1702719270	127.0.0.1	E	dsoc:guias_de_clase	caeruy	[Guias de clase] 		-14
@@ -18,3 +11,13 @@
 1702752387	127.0.0.1	E	dsoc:guias_de_clase	caeruy	Edición para mostrar desde clase 9 a 15		94
 1702984834	127.0.0.1	E	dsoc:guias_de_clase		editor externo		9636
 1702985451	127.0.0.1	e	dsoc:guias_de_clase	caeruy			15
+1703455665	127.0.0.1	C	derecho_comercial	caeruy	creado		216
+1703455704	127.0.0.1	E	derecho_comercial	caeruy	[Secciones] 		9
+1703455795	127.0.0.1	E	derecho_comercial	caeruy	[Secciones] 		2
+1703455872	127.0.0.1	C	dcom:guiasclase	caeruy	creado		73
+1703590588	127.0.0.1	E	dcom:guiasclase	caeruy	guia de clase 1 det		188
+1703591249	127.0.0.1	C	gc:gc1	caeruy	 creado		3580
+1703592335	127.0.0.1	E	gc:gc1	caeruy	avance 3 gc1		275
+1703706312	127.0.0.1	E	gc:gc1	caeruy	avance 231227		1497
+1703706430	127.0.0.1	E	dcom:guiasclase	caeruy	guia de clase 2 det		109
+1703706952	127.0.0.1	C	gc:gc2	caeruy	creado		2018

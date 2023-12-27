@@ -1,0 +1,78 @@
+====== Guía de clase 1 ======
+
+Correspondiente a documento A01
+
+===== INTRODUCCIÓN AL ESTUDIO DEL DERECHO COMERCIAL =====
+
+==== Nacimiento y evolución del Derecho Comercial. ====
+
+  * El Derecho Comercial nace en la Baja Edad Media, como un conjunto de normas (Estatutos) creadas por los comerciantes para regular las relaciones entre ellos.
+  * Durante la Alta Edad Media, con la creación de los Estados Nacionales, continúa desarrollándose el Derecho Comercial como un derecho de clase o de corporación, aunque las normas pasaron a ser dictadas por los Estados (Ordenanzas) y no por los comerciantes.
+  * Tras la Revolución Francesa se derogan las Ordenanzas:
+      * El Derecho Comercial deja de ser el Derecho “de los comerciantes”.
+      * El Derecho Comercial pasa a regular la “actividad comercial” y su centro pasa a ser “los actos de comercio”. En varios países se sancionan Códigos de Comercio.
+      * En el siglo XX, debido al gran desarrollo del Derecho Comercial, se dictaron varias leyes fuera de los Códigos de Comercio (sobre propiedad intelectual, sobre títulos valores, sobre competencia, derecho concursal, etc.).
+
+==== Contenido del Derecho Comercial. ====
+
+  * Se regulan los actos de comercio, el estatuto de los comerciantes (personas físicas y jurídicas), los bienes afectados al comercio (establecimiento comercial, propiedad industrial, etc..), la competencia y el mercado, los títulos valores y las crisis empresariales (Derecho Concursal).
+
+**Bibliografía:** Curso de Derecho Comercial (3ª edición), pág. 17 a 22.
+
+===== LOS ACTOS DE COMERCIO =====
+
+==== Actos de Comercio. Su trascendencia. ====
+
+  * Se regulan por el Derecho Comercial.
+  * En muchos países las controversias que se suscitan en relación a los actos de comercio, son resueltas por jueces especializados (Jueces de Comercio).
+  * La realización habitual y profesional de actos de comercio, atribuye la calidad de comerciante (art. 1 C. Com.).
+
+==== Enumeración. ====
+
+  * Actos de comercio recogidos en el artículo 7 del C. Com.: (i) integran una enumeración no taxativa; (ii) hay actos de comercio de diferente naturaleza y (iii) solo los actos de comercio naturales pueden conferir la calidad de comerciante.
+  * Compraventa comercial (art. 7 num. 1, 515 y 516 del C. de Com.)
+      * La CV es comercial, cuando recae sobre bienes muebles y el comprador los adquiere con la intención de volver a venderlos o de alquilarlos.
+      * La CV de bienes inmuebles siempre es de naturaleza civil.
+      * La CV de acciones, la CV de bienes para preparar o facilitar el comercio y la CV de acciones, siempre es comercial.
+  * Toda operación de cambio, de banco, corretaje o remate (art. 7.2 C. de Com.).
+  * Negociaciones con letras de cambio o cualquier género de papel endosable (art. 7 num. 3).
+  * Empresas de fábrica, comisiones, depósitos o transporte de mercadería por tierra o por agua (art. 7 num. 4).
+  * Sociedades anónimas cualquiera sea su objeto (art. 7 num. 5) (todas las sociedades reguladas por la ley 16.060).
+  * Contratos de fletamento, seguro, compraventa de buques y todo lo relativo al transporte marítimo (art. 7 num. 6).
+  * Operaciones de los factores, tenedores de libros y otros empleados del comerciante (art. 7 num. 7).
+  * Convenciones sobre salarios de dependientes y empleados del comerciante (art. 7 num. 8). **Actualmente son alcanzados y regulados por el Derecho Laboral.**
+
+**Bibliografía:** Curso de Derecho Comercial (3ª edición), pág. 22 a 31 y todas las normas jurídicas allí mencionadas.
+
+===== COMERCIANTE =====
+
+==== Comerciante persona física y comerciante persona jurídica. ====
+
+==== Definición legal de comerciante (art. 1 C. Com.): análisis. ====
+
+  * Capacidad legal para contratar.
+  * <del>Matrícula de comerciante</del> (requisito derogado).
+  * Ejercicio de actos de comercio (materiales):
+      * por cuenta propia y
+      * como profesión habitual.
+
+==== Cargas y obligaciones de los comerciantes (artículos 44 y sig. C. de Com.).====
+
+  * Inscripción de documentos en Registros Públicos.
+  * Seguir un orden uniforme de contabilidad y llevar los libros de comercio:
+    * Importancia de la contabilidad.
+    * Libros de comercio obligatorios y auxiliares (arts. 54 y sig.).
+    * Contenido de los libros obligatorios.
+    * Requisitos intrínsecos y extrínsecos de la teneduría regular de libros (arts. 65 y 66).
+    * Prueba de libros: exhibición parcial y exhibición general (arts. 68 y sig.).
+    * Exhibición general (art. 71 y sig.): procede con carácter excepcional en algunos juicios (sucesión, sociedad -arts. 75 y 339 LSC-, comunidad, administración o gestión comercial por cuenta ajena) y siempre a instancia de parte. Referencia al Derecho Concursal y a la venta de “empresas”.
+    * Exhibición parcial: Alcance. Requisitos de procedencia (i) proceso entre comerciantes y (ii) por hechos de su comercio. Puede ser declarada de oficio por el Juez.
+    * Consecuencias de no llevar los libros de comercio en forma (art. 68).
+  * Llevar la correspondencia comercial y los libros (art. 80).
+  * Rendición de cuentas: art. 81 y sig.
+
+**Bibliografía:**
+
+Curso de Derecho Comercial (3ª edición), pág. 31 y sig. y todas las normas jurídicas allí mencionadas.
+
+Nociones de Derecho Comercial (2ª edición), pág. 53 a 63.

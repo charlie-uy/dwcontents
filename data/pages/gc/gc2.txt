@@ -1,0 +1,26 @@
+====== Guía de clase 2 ======
+
+===== LOS ACTOS DE COMERCIO =====
+
+==== Actos de Comercio. Su trascendencia. ====
+
+  * Se regulan por el Derecho Comercial.
+  * En muchos países las controversias que se suscitan en relación a los actos de comercio, son resueltas por jueces especializados (Jueces de Comercio).
+  * La realización habitual y profesional de actos de comercio, atribuye la calidad de comerciante (art. 1 C. Com.).
+
+==== Enumeración. ====
+
+  * Actos de comercio recogidos en el artículo 7 del C. Com.: (i) integran una enumeración no taxativa; (ii) hay actos de comercio de diferente naturaleza y (iii) solo los actos de comercio naturales pueden conferir la calidad de comerciante.
+  * Compraventa comercial (art. 7 num. 1, 515 y 516 del C. de Com.)
+    * La CV es comercial, cuando recae sobre bienes muebles y el comprador los adquiere con la intención de volver a venderlos o de alquilarlos.
+    * La CV de bienes inmuebles siempre es de naturaleza civil.
+    * La CV de acciones, la CV de bienes para preparar o facilitar el comercio y la CV de acciones, siempre es comercial.
+  * Toda operación de cambio, de banco, corretaje o remate (art. 7.2 C. de Com.).
+  * Negociaciones con letras de cambio o cualquier género de papel endosable (art. 7 num. 3).
+  * Empresas de fábrica, comisiones, depósitos o transporte de mercadería por tierra o por agua (art. 7 num. 4).
+  * Sociedades anónimas cualquiera sea su objeto (art. 7 num. 5) (todas las sociedades reguladas por la ley 16.060).
+  * Contratos de fletamento, seguro, compraventa de buques y todo lo relativo al transporte marítimo (art. 7 num. 6).
+  * Operaciones de los factores, tenedores de libros y otros empleados del comerciante (art. 7 num. 7).
+  * Convenciones sobre salarios de dependientes y empleados del comerciante (art. 7 num. 8). Actualmente son alcanzados y regulados por el Derecho Laboral.
+
+**Bibliografía:** Curso de Derecho Comercial (3ª edición), pág. 22 a 31 y todas las normas jurídicas allí mencionadas.
