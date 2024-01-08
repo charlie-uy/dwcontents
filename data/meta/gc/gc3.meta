@@ -1,0 +1,13 @@
+a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1704044304;s:8:"modified";i:1704044304;}s:7:"creator";s:13:"Carlos Elcura";s:4:"user";s:6:"caeruy";s:11:"last_change";a:8:{s:4:"date";i:1704044304;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"C";s:2:"id";s:6:"gc:gc3";s:4:"user";s:6:"caeruy";s:3:"sum";s:17:"Creado V1 clase 3";s:5:"extra";s:0:"";s:10:"sizechange";i:2100;}s:5:"title";s:16:"Guía de clase 3";s:11:"description";a:2:{s:15:"tableofcontents";a:4:{i:0;a:4:{s:3:"hid";s:15:"guia_de_clase_3";s:5:"title";s:16:"Guía de clase 3";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:36:"comerciante_y_auxiliares_de_comercio";s:5:"title";s:36:"COMERCIANTE Y AUXILIARES DE COMERCIO";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:14:"el_comerciante";s:5:"title";s:14:"EL COMERCIANTE";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:3;a:4:{s:3:"hid";s:31:"agentes_auxiliares_del_comercio";s:5:"title";s:31:"AGENTES AUXILIARES DEL COMERCIO";s:4:"type";s:2:"ul";s:5:"level";i:3;}}s:8:"abstract";s:265:"Guía de clase 3
+
+Correspondiente a documento C01
+
+COMERCIANTE Y AUXILIARES DE COMERCIO
+
+EL COMERCIANTE
+
+Comerciante persona física y comerciante persona jurídica.
+
+Definición legal de comerciante (art. 1 C. Com.): análisis.
+
+	*  Capacidad legal para contratar.";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:8:"relation";a:1:{s:10:"firstimage";s:0:"";}}s:10:"persistent";a:4:{s:4:"date";a:1:{s:7:"created";i:1704044304;}s:7:"creator";s:13:"Carlos Elcura";s:4:"user";s:6:"caeruy";s:11:"last_change";a:8:{s:4:"date";i:1704044304;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"C";s:2:"id";s:6:"gc:gc3";s:4:"user";s:6:"caeruy";s:3:"sum";s:17:"Creado V1 clase 3";s:5:"extra";s:0:"";s:10:"sizechange";i:2100;}}}

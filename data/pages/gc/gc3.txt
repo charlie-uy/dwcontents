@@ -1,0 +1,44 @@
+====== Guía de clase 3 ======
+
+Correspondiente a documento C01
+
+===== COMERCIANTE Y AUXILIARES DE COMERCIO =====
+
+==== EL COMERCIANTE ====
+
+=== Comerciante persona física y comerciante persona jurídica. ===
+
+=== Definición legal de comerciante (art. 1 C. Com.): análisis. ===
+
+  * Capacidad legal para contratar.
+  * Matrícula de comerciante (requisito derogado).
+  * Ejercicio de actos de comercio (materiales):
+    * por cuenta propia y 
+    * como profesión habitual.
+
+=== Cargas y obligaciones de los comerciantes (artículos 44 y sig. C. de Com.). ===
+
+  * Ítem de lista desordenadaInscripción de documentos en Registros Públicos.
+  * Seguir un orden uniforme de contabilidad y llevar los libros de comercio:
+    * Importancia de la contabilidad.
+    * Libros de comercio obligatorios y auxiliares (arts. 54 y sig.).
+    * Contenido de los libros obligatorios.
+    * Requisitos intrínsecos y extrínsecos de la teneduría regular de libros (arts. 65 y 66).
+    * Prueba de libros: exhibición parcial y exhibición general (arts. 68 y sig.).
+    * Exhibición general (art. 71 y sig.): procede con carácter excepcional en algunos juicios (sucesión, sociedad -arts. 75 y 339 LSC-, comunidad, administración o gestión comercial por cuenta ajena) y siempre a instancia de parte. Referencia al Derecho Concursal y a la venta de “empresas”. 
+    * Exhibición parcial: Alcance. Requisitos de procedencia (i) proceso entre comerciantes y (ii) por hechos de su comercio. Puede ser declarada de oficio por el Juez.
+    * Consecuencias de no llevar los libros de comercio en forma (art. 68).
+  * Llevar la correspondencia comercial y los libros (art. 80).
+  * Rendición de cuentas: art. 81 y sig.
+
+==== AGENTES AUXILIARES DEL COMERCIO ====
+
+
+  * Concepto de auxiliares y distintos auxiliares de comercio.
+  * Corredores (art. 89 a 113 C. de Com.).
+  * Rematadores (ley 15.908).
+  * Barraqueros y administradores de casas de depósito (arts. 124 a 132).
+  * Factores y dependientes
+    * Definición de factor (art. 133). 
+    * Facultades de representación: alcance.
+    * Derechos.
